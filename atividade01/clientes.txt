@@ -1,0 +1,7 @@
+Nome: paolla
+Email: paollap.veronez@gmail.com
+Telefone: (11) 98888-7777
+CPF: 49208892832
+-----------------------------
+paolla;paollap.veronez@gmail.com;(11) 96912-3676;49208892832
+paolla;paollap.veronez@gmail.com;(11) 96912-3676;49208892832
